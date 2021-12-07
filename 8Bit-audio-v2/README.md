@@ -6,4 +6,4 @@ It is the second draft that tries to avoid the mistakes of the first version. Th
 
 ![pcb](8Bit-audio-7524-axelb-v2.brd.png)
 
-![schematic]8Bit-audio-7524-axelb-v2.sch.png)
+![schematic](8Bit-audio-7524-axelb-v2.sch.png)
