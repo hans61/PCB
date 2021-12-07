@@ -1,7 +1,7 @@
 8 Bit Audo with the TLC7524
 ===========================
 This is a small circuit board to test 8 bit audio on the Gigatron. The schematic is from Axelb, thank you very much. Unfortunately I made a mistake. Pin 3 of the MCP6022 is connected to RFB (16). The connection must be separated and a wire must be soldered to VREF (15).
-To test the DAC, I first connected it to an Arduino Uno. With the Gigatron it can be connected to the new extension of lb3361. Many thanks to lb3361 for his work. The following connections must be established:
+To test the DAC, I first connected it to an Arduino Uno. With the Gigatron it can be connected to the new expansion v7 of lb3361. Many thanks to lb3361 for his work. The following connections must be established:
 
 |Expansion|TLC7524|
 |-----------|-----------|
