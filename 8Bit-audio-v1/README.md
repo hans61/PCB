@@ -13,4 +13,5 @@ To test the DAC, I first connected it to an Arduino Uno. With the Gigatron it ca
 
 In order for the TLC7524 to accept the data, the /WR of GAL1 must be negated.
 I changed line 65:
-DEVCLKOUT = !(OE & WE & SPECIALCODE);
+
+`DEVCLKOUT = !(OE & WE & SPECIALCODE);`
