@@ -15,3 +15,5 @@ In order for the TLC7524 to accept the data, the /WR of GAL1 must be negated.
 I changed line 65:
 
 `DEVCLKOUT = !(OE & WE & SPECIALCODE);`
+
+![pcb](8Bit-Audio - 7524 axelb.brd.png)
